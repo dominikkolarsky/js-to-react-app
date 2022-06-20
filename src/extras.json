@@ -1,0 +1,6 @@
+[
+  { "id": 1, "value": "Bio kvalita (+30% navic)", "isChecked": false },
+  { "id": 2, "value": "Extra premium kvalita (+50% navic)", "isChecked": false },
+  { "id": 3, "value": "Extra nekvalita pro chudé (-15% sleva)", "isChecked": false },
+  { "id": 4, "value": "Dárkové balení (+500 Kč navíc)", "isChecked": false }
+]

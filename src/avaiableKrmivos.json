@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "value": "nevybráno nic",
+    "price": 0,
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "value": "Psí žrádlo 150 kč/kg",
+    "price": 150,
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "value": "Kočičí žrádlo 120 kč/kg",
+    "price": 120,
+    "isChecked": false
+  },
+  {
+    "id": 4,
+    "value": "Žrádlo pro rybičky 50 kč/kg",
+    "price": 50,
+    "isChecked": false
+  },
+  {
+    "id": 5,
+    "value": "Žrádlo pro tygra 800 kč/kg",
+    "price": 800,
+    "isChecked": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "value": "Osobní odběr (zdarma)",
+    "price": 0,
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "value": "Firemní kurýr (+10% navíc)",
+    "price": 0.1,
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "value": "Česká pošta (+250 kč navíc)",
+    "price": 250,
+    "isChecked": false
+  }
+]
